@@ -1,8 +1,8 @@
 ## Hi, I'm Stas 👋👨‍💻
 
-Senior Software Engineer and Tech Lead at IBM. 
+I am a Senior Software Engineer and Tech Lead at IBM. 
 
-I am deep into all things cloud, mentoring and high quality code.
+I am deep into all things cloud, blockchain, mentoring and high quality code.
 
 - 👨‍💻 @IBM: raising code quality, introducing DevOps, hardening CI/CD in a strategic project.
 - 👯 Mentoring: teaching aspiring engineers productivity, how to test, code and refactor.
