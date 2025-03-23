@@ -13,3 +13,7 @@ I am deep into all things cloud, blockchain, mentoring and high quality code.
 [<img align="left" alt="twoGiants | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/stanislav-jakuschevskij/)
 [<img align="left" alt="twoGiants | Tekton Slack" width="22px" src="https://cdn.simpleicons.org/slack/black/white" />](https://tektoncd.slack.com/)
 
+<!--
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=twoGiants&show_icons=true&locale=en&layout=compact" alt="twoGiants" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twoGiants&" alt="twoGiants" />
+-->
