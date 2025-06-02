@@ -27,8 +27,8 @@ I am deep into all things cloud-native, blockchain, mentoring and high quality c
 
 ### Let's Connect
 
-[<img align="left" alt="twoGiants | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/black/white" />](https://www.linkedin.com/in/stanislav-jakuschevskij/)
-[<img align="left" alt="twoGiants | Tekton Slack" width="22px" src="https://cdn.simpleicons.org/slack/black/white" />](https://tektoncd.slack.com/)
+- [LinkedIn](https://www.linkedin.com/in/stanislav-jakuschevskij/)
+- [Tekton Slack](https://tektoncd.slack.com/)
 
 <!--
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=twoGiants&show_icons=true&locale=en&layout=compact" alt="twoGiants" />
