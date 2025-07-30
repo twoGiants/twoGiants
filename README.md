@@ -15,7 +15,7 @@ I am deep into all things cloud-native, blockchain, mentoring and high quality c
 
 - Refactored pipeline step validation, migrated tests and raised test coverage closing issues [8700](https://github.com/tektoncd/pipeline/issues/8700) and [7442](https://github.com/tektoncd/pipeline/issues/7442).
 - Implementing the high-value pipelines in pipelines feature tracked in issue [8760](https://github.com/tektoncd/pipeline/issues/8760).
-- Improved code generation speed by 40% closing issue [8718](https://github.com/tektoncd/pipeline/issues/87180).
+- Improved code generation speed by 40% closing issue [8718](https://github.com/tektoncd/pipeline/issues/8718).
 - Fixed critical development setup bugs [2486](https://github.com/tektoncd/plumbing/issues/2486), [2523](https://github.com/tektoncd/plumbing/issues/2523), [2522](https://github.com/tektoncd/plumbing/issues/2522), [8660](https://github.com/tektoncd/pipeline/issues/8660) and [642](https://github.com/tektoncd/website/issues/642) involving Docker, Podman and Kubernetes.
 - Created visibility for registry migration on website, documentation and repositories closing issue [645](https://github.com/tektoncd/website/issues/645).
 
