@@ -1,13 +1,13 @@
 ## Hi, I'm Stas 👋👨‍💻
 
-I love coding, work as a Senior Software Engineer at IBM and I do a lot of [open source work](#open-source-work).
+I love coding and I do a lot of [open source work](#open-source-work) at Red Hat.
 
 I am deep into all things cloud-native, blockchain, mentoring and high quality code.
 
-- 👨‍💻 @IBM: raising code quality, introducing DevOps, hardening CI/CD in a strategic project.
+- 👨‍💻 @RedHat: _upadte comming soon_
 - 👯 Mentoring: teaching aspiring engineers productivity, how to test, code and refactor.
-- 🌱 Learning: [demystifying Tekton](https://github.com/tektoncd/pipeline/blob/main/docs/developers/README.md).
-- ⛹️‍♂️ Playing: [data structures and algorithms](https://github.com/twoGiants/dsa-practice).
+- 🌱 Learning: about inner workings of [Knative](https://knative.dev/docs/community/contributing/).
+- ⛹️‍♂️ Playing: [apply established patterns to K8 controllers](https://github.com/twoGiants/tekton-playground/tree/master/samples/memcached-operator).
 
 ### Open Source Work
 
