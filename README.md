@@ -34,3 +34,5 @@ I am deep into all things cloud-native, blockchain, mentoring and high quality c
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=twoGiants&show_icons=true&locale=en&layout=compact" alt="twoGiants" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twoGiants&" alt="twoGiants" />
 -->
+
+<!--DATE-->_Last updated: 19. November 2025_<!--DATE-->
