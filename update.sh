@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-TARGET_FILE="${GIT_USER_NAME:-README.md}"
+TARGET_FILE="${TARGET_FILE:-README.md}"
 GIT_USER_NAME="${GIT_USER_NAME:-twoGiants}"
 GIT_USER_EMAIL="${GIT_USER_EMAIL:-twoGiants@users.noreply.github.com}"
 GITHUB_CI="${GITHUB_ACTIONS:-false}"
