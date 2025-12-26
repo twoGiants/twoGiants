@@ -4,7 +4,7 @@ I love coding and I do a lot of [open source work](#open-source-work) at Red Hat
 
 I am deep into all things cloud-native, blockchain, mentoring and high quality code.
 
-- 👨‍💻 @RedHat: _upadte comming soon_
+- 👨‍💻 @RedHat: _update coming soon_
 - 👯 Mentoring: teaching aspiring engineers productivity, how to test, code and refactor.
 - 🌱 Learning: about inner workings of [Knative](https://knative.dev/docs/community/contributing/).
 - ⛹️‍♂️ Playing: [apply established patterns to K8 controllers](https://github.com/twoGiants/tekton-playground/tree/master/samples/memcached-operator).
