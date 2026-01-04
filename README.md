@@ -35,4 +35,4 @@ I am deep into all things cloud-native, blockchain, mentoring and high quality c
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=twoGiants&" alt="twoGiants" />
 -->
 
-_Last updated: 3. January 2026_
+_Last updated: 4. January 2026_
