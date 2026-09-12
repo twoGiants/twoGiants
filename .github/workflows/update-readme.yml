@@ -1,8 +1,8 @@
-name: Daily README last-updated
+name: Daily README Update
 
 on:
   schedule:
-    - cron: '0 16 * * *'
+    - cron: "0 16 * * *"
   workflow_dispatch:
 
 permissions:
@@ -17,8 +17,9 @@ jobs:
         with:
           persist-credentials: true
 
-      - name: Run update script
+      - name: Generate README
         env:
+          GITHUB_TOKEN: ${{ github.token }}
           GIT_USER_NAME: ${{ secrets.GIT_USER_NAME }}
           GIT_USER_EMAIL: ${{ secrets.GIT_USER_EMAIL }}
-        run: ./update.sh
+        run: ./generate-readme.sh
