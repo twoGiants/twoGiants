@@ -1,21 +1,23 @@
 ## Hi, I'm Stas 👋👨‍💻
 
-Principal Software Engineer. Tekton maintainer. Knative member.
+Principal Software Engineer at Red Hat.<br />
+OpenShift Serverless by day.<br />
+Tekton maintainer by night.
 
-### Activity & Impact
-📊 5289 contributions | 🤝 22 repos | 📋 50 issues | ✅ 77 PRs | 🔍 135 reviews
+### Activity
+📊 7844 contributions | 🤝 93 repos | 📋 60 issues | ✅ 107 PRs | 🔍 258 reviews
 
-### Recent Work
+### Recent
 
-**Issues:**
-- Profiling runs fail locally on Fedora Linux. eventing-kafka-broker#4569 [↗](https://github.com/knative-extensions/eventing-kafka-broker/issues/4569)
-- Cleanup pipelinerunresolution_test.go. pipeline#8921 [↗](https://github.com/tektoncd/pipeline/issues/8921) ✓
-- Implement Github Workflow generation. func#3256 [↗](https://github.com/knative/func/issues/3256)
+**Pull Requests**
+- SRVOCF-1070: Update TESTING.md and AGILE.md documentation [`faas-console-plugin#175 ↗`](https://github.com/openshift/faas-console-plugin/pull/175) ✅
+- OCPBUGS-112062: fix: use native gRPC probes for CatalogSource pods [release-4.22] [`operator-framework-olm#1356 ↗`](https://github.com/openshift/operator-framework-olm/pull/1356) 🔄
+- SRVOCF-822: Add namespace scoping to function list [`faas-console-plugin#155 ↗`](https://github.com/openshift/faas-console-plugin/pull/155) ✅
 
-**Pull Requests:**
-- Add runtime-aware builder config. func#3479 [↗](https://github.com/knative/func/pull/3479) 🔄
-- Deduplicate concurrent resolver cache requests. pipeline#9365 [↗](https://github.com/tektoncd/pipeline/pull/9365) 🔄
-- Use act for generated workflow testing. knative-func#1 [↗](https://github.com/twoGiants/knative-func/pull/1) ❌
+**Issues**
+- TEP-0056: Pipelines in Pipelines. Timeout propagation to child PipelineRuns. [`pipeline#10178 ↗`](https://github.com/tektoncd/pipeline/issues/10178)
+- Refactor `PipelineRun` reconciler test helpers/framework. [`pipeline#8906 ↗`](https://github.com/tektoncd/pipeline/issues/8906)
+- TEP-0056: Pipelines in Pipelines. ServiceAccount propagation test coverage. [`pipeline#10180 ↗`](https://github.com/tektoncd/pipeline/issues/10180) ✓
 
 ### Let's Connect
 
