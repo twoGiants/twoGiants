@@ -5,14 +5,14 @@ OpenShift Serverless by day.<br />
 Tekton maintainer by night.
 
 ### Activity
-📊 8300 contributions | 🤝 73 repos | 📋 60 issues | ✅ 108 PRs | 🔍 265 reviews
+📊 8334 contributions | 🤝 73 repos | 📋 60 issues | ✅ 109 PRs | 🔍 266 reviews
 
 ### Recent
 
 **Pull Requests**
-- SRVOCF-1163: Document project management roles and rotation process [`faas-console-plugin#253 ↗`](https://github.com/openshift/faas-console-plugin/pull/253) 🔄
+- SRVOCF-1163: Address review feedback on ways of working [`faas-console-plugin#262 ↗`](https://github.com/openshift/faas-console-plugin/pull/262) 🔄
+- SRVOCF-1163: Document project management roles and rotation process [`faas-console-plugin#253 ↗`](https://github.com/openshift/faas-console-plugin/pull/253) ✅
 - OCPBUGS-112062: fix: use native gRPC probes for CatalogSource pods [release-4.22] [`operator-framework-olm#1356 ↗`](https://github.com/openshift/operator-framework-olm/pull/1356) 🔄
-- WIP [`faas-console-plugin#204 ↗`](https://github.com/openshift/faas-console-plugin/pull/204) ❌
 
 **Issues**
 - TEP-0056: Pipelines in Pipelines. Timeout propagation to child PipelineRuns. [`pipeline#10178 ↗`](https://github.com/tektoncd/pipeline/issues/10178)
@@ -25,4 +25,4 @@ Tekton maintainer by night.
 - [CNCF Slack](https://cloud-native.slack.com/)
 - [Tekton Slack](https://tektoncd.slack.com/)
 
-_Last updated: 26. October 2026_
+_Last updated: 27. October 2026_
