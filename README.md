@@ -5,7 +5,7 @@ OpenShift Serverless by day.<br />
 Tekton maintainer by night.
 
 ### Activity
-📊 8623 contributions | 🤝 75 repos | 📋 60 issues | ✅ 110 PRs | 🔍 271 reviews
+📊 8638 contributions | 🤝 75 repos | 📋 61 issues | ✅ 110 PRs | 🔍 272 reviews
 
 ### Recent
 
@@ -15,9 +15,9 @@ Tekton maintainer by night.
 - SRVOCF-1163: Document project management roles and rotation process [`faas-console-plugin#253 ↗`](https://github.com/openshift/faas-console-plugin/pull/253) ✅
 
 **Issues**
+- config-defaults values are not validated: invalid values silently break runs or invert limits [`pipeline#11007 ↗`](https://github.com/tektoncd/pipeline/issues/11007)
 - TEP-0056: Pipelines in Pipelines. Timeout propagation to child PipelineRuns. [`pipeline#10178 ↗`](https://github.com/tektoncd/pipeline/issues/10178)
 - Refactor `PipelineRun` reconciler test helpers/framework. [`pipeline#8906 ↗`](https://github.com/tektoncd/pipeline/issues/8906)
-- TEP-0056: Pipelines in Pipelines. ServiceAccount propagation test coverage. [`pipeline#10180 ↗`](https://github.com/tektoncd/pipeline/issues/10180) ✓
 
 ### Let's Connect
 
@@ -25,4 +25,4 @@ Tekton maintainer by night.
 - [CNCF Slack](https://cloud-native.slack.com/)
 - [Tekton Slack](https://tektoncd.slack.com/)
 
-_Last updated: 12. November 2026_
+_Last updated: 13. November 2026_
