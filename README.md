@@ -5,12 +5,12 @@ OpenShift Serverless by day.<br />
 Tekton maintainer by night.
 
 ### Activity
-📊 8694 contributions | 🤝 75 repos | 📋 61 issues | ✅ 110 PRs | 🔍 277 reviews
+📊 8712 contributions | 🤝 75 repos | 📋 61 issues | ✅ 111 PRs | 🔍 279 reviews
 
 ### Recent
 
 **Pull Requests**
-- SRVOCF-1249: Add knowledge transfer deck and process docs [`faas-console-plugin#284 ↗`](https://github.com/openshift/faas-console-plugin/pull/284) 🔄
+- SRVOCF-1249: Add knowledge transfer deck and process docs [`faas-console-plugin#284 ↗`](https://github.com/openshift/faas-console-plugin/pull/284) ✅
 - SRVOCF-1163: Address review feedback on ways of working [`faas-console-plugin#262 ↗`](https://github.com/openshift/faas-console-plugin/pull/262) ✅
 - SRVOCF-1163: Document project management roles and rotation process [`faas-console-plugin#253 ↗`](https://github.com/openshift/faas-console-plugin/pull/253) ✅
 
